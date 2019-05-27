@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="24" started-at="2019-05-27T12:13:02Z" finished-at="2019-05-27T12:13:02Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="24" started-at="2019-05-27T12:13:02Z" finished-at="2019-05-27T12:13:02Z">
+      <class name="qa.pags.Newtest">
+        <test-method status="PASS" signature="add()[pri:0, instance:qa.pags.Newtest@23ceabc1]" name="add" is-config="true" duration-ms="31" started-at="2019-05-27T17:43:02Z" finished-at="2019-05-27T17:43:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add -->
+        <test-method status="PASS" signature="sum()[pri:0, instance:qa.pags.Newtest@23ceabc1]" name="sum" is-config="true" duration-ms="0" started-at="2019-05-27T17:43:02Z" finished-at="2019-05-27T17:43:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+        <test-method status="PASS" signature="mul()[pri:0, instance:qa.pags.Newtest@23ceabc1]" name="mul" is-config="true" duration-ms="1" started-at="2019-05-27T17:43:02Z" finished-at="2019-05-27T17:43:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mul -->
+        <test-method status="PASS" signature="all()[pri:0, instance:qa.pags.Newtest@23ceabc1]" name="all" is-config="true" duration-ms="0" started-at="2019-05-27T17:43:02Z" finished-at="2019-05-27T17:43:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- all -->
+        <test-method status="PASS" signature="alltest()[pri:0, instance:qa.pags.Newtest@23ceabc1]" name="alltest" duration-ms="7" started-at="2019-05-27T17:43:02Z" finished-at="2019-05-27T17:43:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alltest -->
+        <test-method status="PASS" signature="closemetod()[pri:0, instance:qa.pags.Newtest@23ceabc1]" name="closemetod" is-config="true" duration-ms="1" started-at="2019-05-27T17:43:02Z" finished-at="2019-05-27T17:43:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closemetod -->
+        <test-method status="PASS" signature="closeroo()[pri:0, instance:qa.pags.Newtest@23ceabc1]" name="closeroo" is-config="true" duration-ms="0" started-at="2019-05-27T17:43:02Z" finished-at="2019-05-27T17:43:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeroo -->
+      </class> <!-- qa.pags.Newtest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

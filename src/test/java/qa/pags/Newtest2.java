@@ -17,7 +17,7 @@ public void done()
 		@Test()
 		public void mani1()
 		{
-			System.out.println(":mk is mui smine");
+			System.out.println(":mk is mui sminemaniakndannakdnkandknakndkankdnkandknakdnkandknakdnkdan");
 	}
 }
 

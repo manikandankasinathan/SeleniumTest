@@ -7,7 +7,7 @@ public class Newtest2 {
 public void done()
 
 {
-	System.out.println("my name is khna");
+	System.out.println("Suryanthan amnaikandan");
 }
 	@Test()
 	public void mani()
@@ -17,7 +17,12 @@ public void done()
 		@Test()
 		public void mani1()
 		{
-			System.out.println(":mk is mui sminemaniakndannakdnkandknakndkankdnkandknakdnkandknakdnkdan");
+			System.out.println(":nemaniakndannakdnkandknakndkankdnkandknakdnkandknakdnkdan");
+	}
+		@Test()
+		public void mani3()
+		{
+			System.out.println(":suji manikandan");
 	}
 }
 

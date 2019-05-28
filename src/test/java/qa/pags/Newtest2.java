@@ -14,5 +14,10 @@ public void done()
 	{
 		System.out.println(":mk is mui smine");
 	}
+		@Test()
+		public void mani1()
+		{
+			System.out.println(":mk is mui smine");
+	}
 }
 
